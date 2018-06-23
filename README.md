@@ -1,6 +1,6 @@
-<div style="height:400px">
+<div style="height:200px">
 	
-<img style="height:400px" src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png">
+<img style="font-size:200px;width:1em;height:1em;" src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png">
 
 </div>
 
