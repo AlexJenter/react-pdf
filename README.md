@@ -1,4 +1,7 @@
 <div style="height:200px;">
+<svg width="100" height="100">
+<circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
 
 <img style="font-size:200px;width:1em;height:1em;" src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png">
 
